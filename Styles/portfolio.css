@@ -109,6 +109,10 @@ p {
     max-height: 40px;
 }
 
+#portfolio-photo{
+    border-radius: 30px;
+}
+
 nav {
     padding: 20px 0;
 }
